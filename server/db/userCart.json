@@ -1,0 +1,34 @@
+{
+    "amount": 2300,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id": 1,
+            "name": "Лиса",
+            "price": 800,
+            "img": "fox",
+            "quantity": 3
+        },
+        {
+            "id": 3,
+            "name": "Коала",
+            "price": 1500,
+            "img": "koala",
+            "quantity": 2
+        },
+        {
+            "quantity": 3,
+            "id": 2,
+            "name": "Леопард",
+            "price": 1000,
+            "img": "leopard.png"
+        },
+        {
+            "quantity": 4,
+            "id": 4,
+            "name": "Медведь",
+            "price": 500,
+            "img": "bear.png"
+        }
+    ]
+}

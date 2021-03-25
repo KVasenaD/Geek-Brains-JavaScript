@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Интернет-магазин мягких игрушек</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Pangolin&display=swap" rel="stylesheet">
+</head>
+<body>
+   <div id="app">
+    <header>
+       <div class="logo-basket">
+       <div class="logo">
+       <a href="index.html"><img src="img/logo.png" alt=""></a></div>
+        
+         <filter-el ></filter-el>
+           <cart ref="cart"></cart>
+          </div>
+           <div class="menu">
+            <a href="#">Акции</a>
+            <a href="#">Каталог</a>
+            <a href="#">Доставка</a>
+            <a href="#">Контакты</a>
+        </div>
+    </header>
+    <main>
+        <error ref="error"></error>
+        <products ref="products"></products>
+    </main>
+    </div>
+    <footer>
+        <p>Монни &#169;</p>
+    </footer>
+    <script defer src="https://use.fontawesome.com/releases/v5.7.2/js/all.js" integrity="sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+   <script src="js/ProductComponent.js"></script>
+   <script src="js/CartComponent.js"></script>
+   <script src="js/FilterComp.js"></script>
+   <script src="js/ErrorComp.js"></script>
+   <script src="js/main.js"></script>
+    </body>    
+</html>
