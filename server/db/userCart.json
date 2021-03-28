@@ -7,24 +7,45 @@
             "name": "Лиса",
             "price": 800,
             "img": "fox",
-            "quantity": 3
+            "quantity": 8
         },
         {
             "id": 3,
             "name": "Коала",
             "price": 1500,
             "img": "koala",
-            "quantity": 2
+            "quantity": 6
         },
         {
-            "quantity": 3,
+            "quantity": 5,
             "id": 2,
             "name": "Леопард",
             "price": 1000,
             "img": "leopard.png"
         },
         {
-            "quantity": 4,
+            "quantity": 5,
+            "id": 4,
+            "name": "Медведь",
+            "price": 500,
+            "img": "bear.png"
+        },
+        {
+            "quantity": 1,
+            "id": 1,
+            "name": "Лиса",
+            "price": 800,
+            "img": "fox.png"
+        },
+        {
+            "quantity": 1,
+            "id": 2,
+            "name": "Леопард",
+            "price": 1000,
+            "img": "leopard.png"
+        },
+        {
+            "quantity": 1,
             "id": 4,
             "name": "Медведь",
             "price": 500,

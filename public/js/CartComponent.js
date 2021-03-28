@@ -1,4 +1,4 @@
-//const API = 'https://github.com/GeekBrainsTutorial/online-store-api/';
+// const API = 'https://raw.githubusercontent.com/GeekBrainsTutorial/online-store-api/master/responses';
 
 Vue.component('cart', {
     data(){
